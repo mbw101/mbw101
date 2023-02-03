@@ -1,4 +1,4 @@
-###👋🏽 Hi, my name is Malcolm
+### 👋🏽 Hi, my name is Malcolm
 
 🎓 Computer Science student at the University of Guelph and expected to graduate April 2024
 
