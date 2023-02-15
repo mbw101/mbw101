@@ -8,8 +8,6 @@
 
 💪🏽 In my free time, I love working out, learning martial arts, and playing basketball
 
-👀 Here's a link to my GitHub: https://github.com/mbw101
-
 <!--
 **mbw101/mbw101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
