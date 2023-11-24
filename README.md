@@ -1,12 +1,14 @@
-### 👋🏽 Hi, my name is Malcolm
+### 👋🏽 Hi, my name is Malcolm!
 
-🎓 Computer Science student at the University of Guelph and expected to graduate in April 2024
+🎓 Computer Science student at the University of Guelph w/ minor in Business - expected to graduate in April 2024. Relevant Coursework: Data Structures, Algorithms, Operating Systems, OOP, Databases, Cryptography, Computer Security
 
-📚 Throughout my time in school, I've previously interned at Microsoft and Tulip as a Software Engineer, and I am currently interning at Wealthsimple this semester on the Options Platform team. At Microsoft, I was on the Media Transformation and Analysis (MeTA) team within OneDrive/SharePoint where I investigated and implemented the usage of a dockerized reverse proxy for their monolith API
+📚 Throughout my time in school, I've previously interned at Microsoft, Wealthsimple, and Tulip as a Software Engineer. Returning to Microsoft as a New Grad SWE
 
 💻 Passionate about learning & tech. Eager to grow and learn whenever possible
 
-💪🏽 In my free time, I love working out, learning martial arts, and playing basketball
+💪🏽 In my free time, I love working out, music, podcasts, and documentaries. I am a Social Events Coordinator of the Caribbean Cultural Club at UoG
+
+👀 Here's a link to my GitHub: https://github.com/mbw101
 
 <!--
 **mbw101/mbw101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
