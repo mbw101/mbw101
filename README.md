@@ -2,13 +2,13 @@
 
 🎓 Computer Science student at the University of Guelph w/ minor in Business - expected to graduate in April 2024. Relevant Coursework: Data Structures, Algorithms, Operating Systems, OOP, Databases, Cryptography, Computer Security
 
-📚 Throughout my time in school, I've previously interned at Microsoft, Wealthsimple, and Tulip as a Software Engineer. Returning to Microsoft as a New Grad SWE
+📚 Throughout my time in university, I've previously interned at Microsoft three times, Wealthsimple, and Tulip. I will be returning to Microsoft as a New Graduate Software Engineer!
 
 💻 Passionate about learning & tech. Eager to grow and learn whenever possible
 
 💪🏽 In my free time, I love working out, music, podcasts, and documentaries. I am a Social Events Coordinator of the Caribbean Cultural Club at UoG
 
-👀 Here's a link to my GitHub: https://github.com/mbw101
+👀 Feel free to view my [LinkedIn](https://www.linkedin.com/in/malcolmbwright).
 
 <!--
 **mbw101/mbw101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
