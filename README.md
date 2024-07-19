@@ -1,12 +1,12 @@
 ### 👋🏽 Hi, my name is Malcolm!
 
-🎓 Computer Science student at the University of Guelph w/ minor in Business - expected to graduate in April 2024. Relevant Coursework: Data Structures, Algorithms, Operating Systems, OOP, Databases, Cryptography, Computer Security
+🎓 Computer Science graduate from the University of Guelph w/ a minor in Business. Relevant Coursework: Data Structures, Algorithms, Operating Systems, OOP, Databases, Cryptography, Computer Security
 
-📚 Throughout my time in university, I've previously interned at Microsoft three times, Wealthsimple, and Tulip. I will be returning to Microsoft as a New Graduate Software Engineer!
+📚 Throughout my time in school, I've previously interned at Microsoft, Wealthsimple, and Tulip as a Software Engineer. Returning to Microsoft as a New Grad SWE on the Excel team.
 
 💻 Passionate about learning & tech. Eager to grow and learn whenever possible
 
-💪🏽 In my free time, I love working out, music, podcasts, and documentaries. I am a Social Events Coordinator of the Caribbean Cultural Club at UoG
+💪🏽 In my free time, I love exercising, music, podcasts, and documentaries.
 
 👀 Feel free to view my [LinkedIn](https://www.linkedin.com/in/malcolmbwright).
 
