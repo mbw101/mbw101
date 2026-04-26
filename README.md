@@ -1,8 +1,9 @@
 ### 👋🏽 Hi, my name is Malcolm!
 
-🎓 Computer Science graduate from the University of Guelph w/ a minor in Business. Relevant Coursework: Data Structures, Algorithms, Operating Systems, OOP, Databases, Cryptography, Computer Security
+🎓 Computer Science graduate from the University of Guelph w/ a minor in Business. Relevant Coursework: Data Structures, Algorithms, Object Oriented Programming, Operating Systems, 
+Databases, Mobile Computing, Discrete Mathematics, Compilers, Cryptography, Computer Security
 
-📚 Throughout my time in school, I've previously interned at Microsoft, Wealthsimple, and Tulip as a Software Engineer. Returning to Microsoft as a New Grad SWE on the Excel team.
+📚 Throughout my time in school, I've previously interned at Microsoft, Wealthsimple, and Tulip as a Software Engineer. Currently working as a Software Engineer at Microsoft.
 
 💻 Passionate about learning & tech. Eager to grow and learn whenever possible
 
